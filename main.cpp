@@ -12,8 +12,7 @@ int main() {
             a=b;
             b=c;
         }
-    }
-    else{
+    }else{
         cout<<"errore"<<endl;
    return 0;
 }
